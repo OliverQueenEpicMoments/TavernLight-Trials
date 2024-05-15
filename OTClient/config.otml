@@ -1,0 +1,52 @@
+window-size: 805 605
+window-pos: 453 233
+window-maximized: false
+uuid: kgqT+v4JWgW+2WCJ9hPqa8N9/Dg=
+locale: en
+foregroundFrameRate: 61
+backgroundFrameRate: 201
+painterEngine: 0
+enableMusicSound: true
+musicSoundVolume: 100
+enableLights: true
+ambientLight: 25
+displayNames: true
+displayHealth: true
+displayMana: true
+displayText: true
+dontStretchShrink: false
+turnDelay: 50
+hotkeyDelay: 50
+dashWalk: false
+enableAudio: true
+showPing: false
+vsync: false
+showFps: false
+fullscreen: false
+classicControl: false
+smartWalk: false
+autoChaseOverride: true
+showStatusMessagesInConsole: true
+showEventMessagesInConsole: true
+showInfoMessagesInConsole: true
+showTimestampsInConsole: true
+showLevelsInConsole: true
+showPrivateMessagesInConsole: true
+showPrivateMessagesOnScreen: true
+showLeftPanel: false
+VipList:
+  VipInfo:
+UseIgnoreList: false
+UseWhiteList: false
+IgnorePrivateMessages: false
+IgnoreYelling: false
+client-version: 1074
+game_interface:
+  splitterMarginBottom: 172
+game_console:
+  messageHistory:
+IgnorePlayers:
+WhitelistedPlayers:
+ServerList:
+terminal-window:
+  poped: false
